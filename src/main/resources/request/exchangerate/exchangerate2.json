@@ -1,0 +1,15 @@
+{
+  "header": {
+    "transactionId": "EXCHANGE_RATE_QUERY_PERFORMANCE%S",
+    "messageId": 0,
+    "action": "EXCHANGE_RATE_QUERY",
+    "resource": "EXCHANGE_RATE_CRITERIA",
+    "operation": "READ",
+    "createdDate": "2020-06-15 23:40:00 PM UTC"
+  },
+  "body": {
+    "exchangeRateCriteria": {
+      "exchangeDate": "2020-09-18"
+    }
+  }
+}
